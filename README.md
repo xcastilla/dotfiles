@@ -4,4 +4,5 @@
 - zsh
 - curl
 - git
+- peco
 - oh-my-zsh
