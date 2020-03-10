@@ -1,6 +1,3 @@
-# Install oh-my-zsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
 # Link dotfiles
 DOT_FILES=( .vimrc .zshrc .zshrc.alias .zshrc.utils )
 for file in ${DOT_FILES[@]}

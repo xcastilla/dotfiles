@@ -4,3 +4,4 @@
 - zsh
 - curl
 - git
+- oh-my-zsh
