@@ -1,0 +1,14 @@
+alias vif='vim `fzf`'
+alias ll='ls -lhA'
+alias cd..="cd .."
+alias ..="cd .."
+alias ...="cd ../.."
+alias fhere="find . -name "
+alias df="df -Tha --total"
+alias mkdir="mkdir -p"
+alias hg="history | grep"
+alias top="htop"
+# Git aliases
+alias gcm="git commit -m "
+alias gaA="git add -A "
+alias lg="ls | grep "
